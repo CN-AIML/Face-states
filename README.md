@@ -1,4 +1,4 @@
-# Facial Expression Detection using Machine Learning
+# Facial Expression Recognition using Machine Learning
 
 This repository contains the code and dataset for training and deploying a machine learning model to detect facial expressions. The model is capable of recognizing five different facial expressions: angry, fear, happy, sad and surprise.
 
